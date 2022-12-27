@@ -1,0 +1,20 @@
+Acqua naturale,2.0,BEVANDE
+Coca Cola,2.5,BEVANDE
+Gricia,9.0,PRIMI
+Carbonara,9.0,PRIMI
+Pollo con Patate,12.0,SECONDI
+Vino Bianco,5.0,BEVANDE
+Tiramisù,3.5,DOLCI
+Fettuccine ai funghi,7.0,PRIMI
+Cicoria  ripassata,4.5,SECONDI
+Lasagna,8.5,PRIMI
+Fanta,2.0,BEVANDE
+Acqua frizzante,2.0,BEVANDE
+Supllì,2.0,ANTIPASTI
+Fiori di zucca,3.0,ANTIPASTI
+Tagliere di Terra,8.5,ANTIPASTI
+Tagliere di Mare,9.0,ANTIPASTI
+Orata al cartoccio,16.0,SECONDI
+Panna Cotta,3.5,DOLCI
+Bruschette,5.0,ANTIPASTI
+Sprite,2.5,BEVANDE
